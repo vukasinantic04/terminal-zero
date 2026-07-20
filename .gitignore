@@ -1,0 +1,33 @@
+# Unity generated folders — regenerated from Assets/ and Packages/, never commit
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / Rider — generated from Unity project, machine-specific
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Unity crash reports
+sysinfo.txt
+*.stackdump
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
